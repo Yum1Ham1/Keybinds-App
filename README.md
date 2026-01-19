@@ -1,4 +1,6 @@
-# ⌨️ Keybinds-App
+# ⌨️ Keybinds-App 
+## PT: Gerenciador de macros de texto moderno e bilíngue. Automatize tarefas repetitivas convertendo qualquer tecla em atalhos inteligentes que digitam por você.
+## EN: A modern, bilingual text macro manager. Automate repetitive tasks by turning any key into smart hotkeys that type for you.
 
 ![Key+binds (1)](https://github.com/user-attachments/assets/d95bbb10-6414-4ab5-be52-48c23fc2ed47)
 
@@ -28,6 +30,11 @@
 ---
 
 ## 🚀 Instalação | Installation
+#**PT/BR:** Você pode baixar o Keybinds app.rar contendo um arquivo executavel (.exe)
+ou arquivo python (.py), oque melhor preferir.
+
+#**EN:** You can download the Keybinds-App.rar containing either the executable file (.exe) 
+or the Python script (.py), whichever you prefer.
 
 ### 1. Clonar | Clone
 ```bash
